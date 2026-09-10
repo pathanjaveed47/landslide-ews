@@ -230,3 +230,4 @@ def send_mock_email(to_email: str, subject: str, body: str, alert_id: int, db: S
     sg.send(mail)
 ```
 # New-AI-Based-early-warning-and-landslide-Risk-Monitoring-System
+"# landslide-ews"  
